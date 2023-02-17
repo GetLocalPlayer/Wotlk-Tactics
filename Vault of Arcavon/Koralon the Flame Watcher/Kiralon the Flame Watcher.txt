@@ -1,0 +1,69 @@
+[PREVIEW.jpg]
+--------------------------------------------
+_ _
+**KORALON THE FLAME WATCHER**
+
+One of four bosses of **Vault of Archavon** raiding dungeon.
+Vault of Archavon is accessible only for the faction that's currently controlling **Wintergrasp**.
+
+
+**ABILITIES**
+
+_ _
+[BURNING_BREATH.jpg]
+--------------------------------------------
+**Burning Breath**
+> *Inflicts 3,900 to 4,100 Fire damage to all targets every 1 second for 3 seconds.*
+
+_ _
+[BURNING_CINDER.jpg]
+--------------------------------------------
+**Burning Cinder**
+> *Inflicts 4388 to 4612 Fire damage to enemies withing 4 yards of the Burning Cinder.*
+
+_ _
+[METEOR_FISTS.jpg]
+--------------------------------------------
+**Meteor Fists**
+> *Attacks inflict damage split evenly to nearby target withing 10 yards of the primary target.*
+
+_ _
+[BURNINIG_FURY.jpg]
+--------------------------------------------
+**Burning Fury**
+> *Increases damage dealt by 5%.*
+
+
+**STRATEGY**
+
+**10 Player:**
+This fight requires 2 tanks and 2 healers.
+
+The only specific requirement for positioning is to keep 5 yards range from each other and not to stay near the tanks. Main Tank and Off Tank must stack on each other, cheek to cheek. The positioning is defined by two Koralon's spells.
+
+First: **Burning Cinder**. A missile that's launched at a random target's current position. Sets the ground on fire, dealing fire damage in 4 yards range. Simply, get out of the fire.
+_ _
+--------------------------------------------
+https://imgur.com/0Ayfu4E
+--------------------------------------------
+_ _
+Tanks also can be chosen as a target of **Burning Cinder**, moving out of the fire they must not forget to stand together.
+
+Second: **Meteor Fists**. Koralon's applies a buff on himself that allows his attacks to deal increased damage to his main target. The damage is split with another target in 10 yards range from the main target. The effect lasts 15 seconds. This is the moment for the healers to focus on the tanks and for tanks to pop their defensive cooldowns. Every time **Meteor Fists** deal damage, you can notice little lava-burst effect on its targets.
+_ _
+--------------------------------------------
+https://imgur.com/78O5kbh
+--------------------------------------------
+_ _
+The boss periodically casts **Burning Breath** spell, spinning around, dealing periodic fire damage every second for 3 seconds. It's nothing but a slight pressure on the healers.
+_ _
+--------------------------------------------
+https://imgur.com/SSFqJo9
+--------------------------------------------
+_ _
+And the last but not least: **Burning Fury**, a buff that increases the boss' damage by 5%. The effect stacks. Obviously, it's sort of a soft-berserk that makes the fight limited on time since at some point the damage will be increased enough to be unhealable.
+
+**In brief:** For all the raid group - don't stay in fire. For healers - focus on the group during **Burning Breath** and on the thanks during **Meteor Fists**. For tanks - stick together and pop your defensive cooldowns on **Meteor Fists**, don't run too far from each other getting out of fire.
+
+**25 Player:**
+No difference from 10 Player mode.

@@ -1,0 +1,202 @@
+[PIC]
+--------------------------------------------
+_ _
+_ _
+**HALION THE TWILIGHT DESTROYER**
+
+Halion is the main and the only boss of The Ruby Sanctum encounter. To be able to face him, you have to defeat three mini-bosses: **Baltharus the Warborn**, **Saviana Ragefire**, and **General Zarithrian**.
+
+
+**GENERAL ABILITIES**
+_ _
+_ _
+[CLEAVE PIC]
+--------------------------------------------
+**Cleave**
+> *Inflicts 75% weapon damage to an enemy and its nearest allies, affecting up to 10 targets.*
+_ _
+_ _
+[TAIL LASH PIC]
+--------------------------------------------
+**Tail Lash**
+> *A sweeping tail strike hits all enemies behind the caster, inflicting 3063 to 3937 damage and stunning them for 2 sec.*
+_ _
+_ _
+[TWILIGHT PRECISION.JPG]
+--------------------------------------------
+**Twilight Precision**
+> *Increases Halion's chance to hit by 5% and decreases all players' chance to dodge by 20%.*
+
+
+**PHYSICAL REALM ABILITIES** *(Phase 1)*
+_ _
+_ _
+[FLAME BREATH PIC]
+--------------------------------------------
+**Flame Breath**
+> *Inflicts 17500 to 22500 Fire damage to enemies in a cone in front of the caster.*
+_ _
+_ _
+[METEOR STRIKE PIC]
+--------------------------------------------
+**Meteor Strike**
+> *Deals 18750 to 21250 Fire damage to enemies within 12 yards.*
+_ _
+_ _
+[FIERY COMBUSTION PIC]
+--------------------------------------------
+**Fiery Combustion**
+> *Engulfs an enemy target in flame, dealing 4000 Fire damage every 2 sec. Every time Fiery Combustion deals damage, it generates a Mark of Combustion charge on the target. When Combustion fades or is dispelled, it unleashes a patch of fire proportional in size to the number of charges present at the time. Either curse or magic removal may cleanse this affliction.*
+
+
+**SHADOW REALM ABILITIES** *(Phase 2)*
+_ _
+_ _
+[DARK BREATH PIC]
+--------------------------------------------
+**Dark Breath**
+> *Inflicts 17500 to 22500 Shadow damage to enemies in a cone in front of the caster.*
+_ _
+_ _
+[DUSK SHROUD PIC]
+--------------------------------------------
+**Dusk Shroud**
+> *An aura of twilight energy emanates from the caster, causing nearby enemies to suffer 3000 Shadow damage every 2 sec.*
+_ _
+_ _
+[TWILIGHT CUTTER PIC]
+--------------------------------------------
+**Twilight Cutter**
+> *Fires a beam of concentrated twilight energy, dealing massive (13875 to 16125) Shadow damage to any enemies that make contact with it.*
+_ _
+_ _
+[SOUL CONSUMPTION PIC]
+--------------------------------------------
+**Soul Consumption**
+> *Engulfs an enemy target in dark energy, dealing 4000 Shadow damage every 2 sec. Every time Soul Consumption deals damage, it generates a Mark of Consumption charge on the target. When Consumption fades or is dispelled, it unleashes a dark explosion proportional to the number of charges present at the time. Either curse or magic removal may cleanse this affliction.*
+
+
+**CROSSREALM ABILITIES** *(Phase 3)*
+_ _
+_ _
+[TWILIGHT DIVISION PIC]
+--------------------------------------------
+**Twilight Division**
+> *Phases the caster, allowing him to exist and act simultaneously in both the material and Twilight realms.*
+
+
+**STRATEGY**
+
+
+**10 Normal:**
+This fight requires 2 tanks and 3 healers.
+You will need to split groups - `1 tank, 1 healer, 3 dps` (we'll call it **"outside group"**) and `1 tank, 2 healers, 2 dps` (we'll call it **"inside group"**). These groups must be balanced by the damage they deal. This is required for Phase 3 of crossrealms.
+
+Halion appears right after last of the mini-bosses, **General Zarithrian**, is defeated. The spawn point is the center of the future battlefield. The encounter has 3 phases and begins when the boss is pulled. Right after the pull, the battlefield gets surrounded by a circle of flame that doesn't deal any damage and exists only not to allow players to leave the fight.
+
+Halion is a typical drake that has all the drake features - **Breathing**, **Cleaving**, and **Tail Lash**. That means nobody must stay in front of the boss (except the current tank) and nobody must stay behind the boss. As additional pressure on healers and tanks, Halion has **Twilight Precision**, a buff that's similar to Chill of the Throne in Icecrown Citadel.
+
+**Phase 1** *(100%-75% HP)*
+Phase 1 begins when Halion is pulled and lasts untill his HP is lowered to 75%. Phase 1 is also known as **Physical Realm**, **Fire Realm**, **Out Realm**, or just **Outside**. The tank from **outside group** pulls Halion and holds him at the initial position. The rest of the raid group must stand on the same side of the boss together, keeping max melee range (the boss' hit box is huge). Second tank is inactive during phase 1 and just follows the group.
+_ _
+[PULLING.JPG]
+--------------------------------------------
+_ _
+Every 25 seconds Halion applies **Fiery Combustion** on a random player except the current tank. Combustion is a debuff that's counted as both a "magic" debuff and a "curse" hence can be dispelled by any cleansing spell that can remove magic or curse effects. Combustion deals periodic fire damage and explodes when dispelled or expires. The explosion knocks players around far away, creating a puddle beneath the target. The puddle deals periodic fire damage.
+_ _
+[FIERY COMBUSTION EXPLOSION.PNG]
+--------------------------------------------
+_ _
+The crucial moment of **Fiery Combustion** is its stacks. By the time, the debuff gains additional stacks that increase the size of the future explosion hence the size of the future puddle. If a Combustion is dispelled too late or not dispelled at all, the size of the puddle will be big enough to cover all the battlefield, affecting the whole raid group which is unhealable
+_ _
+[TOO BIG PUDDLE.PNG]
+--------------------------------------------
+_ _
+The solution is pretty simple. The target of a **Fiery Combustion** must run away to the flame wall, that's surrounding the battlefield, where must be dispelled. The healers should be careful not to dispel the debuff too early that can create a puddle under the group and knock someone away with its explosion.
+
+> *Affliction warlocks must pay attention on their Fellhunter's `Devour Magic` spell. Set on autocast, it can dispel ``Fiery Combustion`` right after it was applied on a player, creating a puddle under the raid group.*
+
+Every 40 seconds Halion places a huge yellow mark on the ground beneath a random player's feet (except the current tank). This mark indicates the zone of a **Meteor Strike**. After 7 second, a flame meteor falls dealing huge amount of damage in the marked area and creates 4 squiggly paths of flame that deal periodic fire damage
+_ _
+[METEOR.PNG]
+--------------------------------------------
+_ _
+When the mark appears, the group should run to the opposite side of the boss, that's currently free from the flame. Due Halion's cone **Cleaving**, **Breathing** in front of him and **Tail Lash** behind him, it's better to run right through the boss' hitbox' center to minimize the cone zone you have to walk through. In addition, keep yourself closer to the tail, since 2 sec. stun from **Tail Lash** isn't that deadly as possible **Cleaving** or **Breathing**. **Meteor Strike** is another reason to keep max melee range, otherwise, it can fall too close to the boss, blocking the way to the opposite side, with fire puddles from **Fiery Combustion**, there can be left no place to stand without taking damage on one side.
+
+***In brief:*** the tank pulls the boss and doesn't move (except a couple of steps to get out of a meteor's flame if needed). The raid group keeps max melee range. The target of  **Fiery Combustion** runs to the flame wall where the effect is dispelled. When a mark of **Meteor Strike** appears, the whole group (except the current tank ofc) runs through the boss to the opposite side. Repeat.
+
+Phase 2 starts when  Halion's HP is lowered to 75%. In this moment, the boss disappears, leaving a portal into the **Shadow Realm**. Halion awaits you on the other side. Everyone, except 1 healer and 1 tank (both from **outside group**), must right-click on the portal to get into the Shadow Realm. **Inside group** tank must be the first one who enters the portal, popping defensive cooldowns, any other player will be one-shotted by the boss.
+_ _
+[PORTAL TO SHADOW REALM.JPG]
+--------------------------------------------
+_ _
+**Phase 2** *(75%-50% HP)*
+Phase 2 is going in the **Shadow Realm**, aka **Inside Realm**, or just **Inside**. The Shadow Realm is exactly the same zone, the only difference is the dark purple filter that makes everything look dark purple. Players in the Shadow Realm cannot see or interact with players in the Physical Realm and vice versa. In addition, players that died in the Shadow Realm appear in the Physical Realm hence you cannot revive them from **Inside**.
+
+> ***For curious warlocks:** ||No, if you summon a Demonic Circle in the Physical Realm and then cast "Demonic Circle: Teleport" spell being in the Shadow Realm, this won't return you in the Physical Realm.||*
+
+The tank of the **inside group** must hold the boss in the same initial position as it was done in the Physical Realm during phase 1. The rest of the raid group stays together on the same side of the boss. **Flame Breath** is replaced with **Dark Breath** which is the same cone breathing but with shadow damage instead of fire. In addition, Halion gets **Dusk Shroud** aura that deals periodic shadow damage to the whole raid group as additional pressure on the healers. Halion keeps using **Cleaving** and **Tail Lash** which means nobody must stay in front of the boss (except the current tank) and nobody must stay behind the boss.
+--------------------------------------------
+_ _
+In the Shadow Realm **Fiery Combustion** is replaced with **Soul Consumption** that has the same mechanics - a stacking debuff that can be dispelled as a magic debuff or a curse, leaves a puddle beneath the targets' feet, the size of the puddle depends on the number  of the stacks. Two differences: 1 - the damage is shadow, 2 - instead of knocking far away it pulls everyone in range of explosion to the center of the puddle. The group is doing the same: get the debuff -> run to the wall -> wait for dispel -> get back to the boss.
+_ _
+[SOUL CONSUMPTION.JPG]
+--------------------------------------------
+_ _
+Special attention is required to **Twilight Cutter** that replaces **Meteor Strike** in the Shadow Realm. Two shadow spheres are flying around the battlefield on the opposite sides of the flame wall, clockwise
+_ _
+[SHADOW SPHERE.JPG]
+--------------------------------------------
+_ _
+Every 30 sec. a beam connects the spheres. The beam is dealing huge amount of shadow damage to anyone who touches it. The tank can survive the beam's touch with popped defensive abilities, but for the rest of the group it's an instant death. The beam lasts 10 seconds and moves with the shadow sphere it connects.
+_ _
+[TWILIGHT CUTTER.PNG]
+--------------------------------------------
+_ _
+The idea of **Twilight Cutter** is to keep the beam as close to the tank as possible, leaving all the space on the boss' sides for the raid group. When the beam appears, the tank starts turning the boss clockwise. The raid group also moves clockwise around the boss to avoid the approaching **Twilight Cutter**, and either **Cleaving** and **Dark Breath** or **Tail Lash** depending on the side the group has chosen to stay on.
+
+That's pretty everything about phase 2. Players with the debuff keep running to the wall for dispel, and instead of moving to the other side of the boss from **Meteor Strike** the group is looking after the shadow spheres and run around the boss clockwise avoiding **Twilight Cutter**'s beam when appears. The best time to use `Heroism`/`Bloodlust` is right after very first **Twilight Cutter**. Due group separation on **outside group** and **inside group** you have one healer less in the Shadow Realm and, in the same time, Halion gets **Dusk Shroud** that can exhaust the healers' mana pretty fast, so it's better to push the boss to phase 3 as fast as possible.
+
+Phase 3 starts when Halion's HP is lowered to 50%. On both sides from the boss a portal appears. Everyone from **outside group** must right-click one of the portals to return into the Physical Realm. Only **inside group** must be in the Shadow Realm during phase 3.
+
+**Phase 3**
+Halion returns into the Physical Realm, the tank of **outside group** must catch him (that's why we need the healer and the tank of **outside group** in the Physical Realm all the time). The rest of **outside group** gets out of the Shadow Realm.
+
+From this moment the fight is a mix of phase 1 and phase 2. **Outside group** is dealing with Halion's **Meteor Strike** and **Fiery Combustion** in the Physical Realm, and **inside group** keeps working on **Twilight Cutter** and **Soul Consumption** in the Shadow Realm.
+--------------------------------------------
+_ _
+The point of 3rd phase is **Twiligt Division** that gives Halion **Corporeality** buff. The info of the current state of the boss' **Corporeality** is also duplicated on the screen
+_ _
+[CORPOREALITY.PNG]
+--------------------------------------------
+_ _
+**Corporeality** always shows Halion's state in the realm a player is currently in. That means, if players in the Shadow Realm are seeing 30% of **Corporeality**, players in the Physical Realm will be seeing 70% of **Corporeality** and vice versa.
+
+The current value of **Corporeality** affects damage dealt and damage taken by Halion. 50% of **Corporeality** means that Halion is in his normal state, dealing and taking 100% of the damage in both realms. A value that's less than 50% makes Halion deal and take less damage in the current realm. A value that's bigger than 50% makes Halion deal and take more damage in the current realm. Obviously, the point of 3rd phase is to keep **Corporeality** value at 50%.
+
+**Corporeality** value depends on the raid group DPS. This is the reason why the raid group must be splited as **outside group** and **inside group** with __balanced__ dps. The group that deals more damage will push Halion into the opposite realm, making him deal more damage to the group on the other side and, eventually, kill them. The group that has pushed the boss too far into the opposite realm must stop dealing damage and wait until **Corporeality** value returns to 50%.
+
+This phase lasts until Halion is dead.
+
+**10 Heroic:**
+Halion hits the current tank as a truck. The Shadow Realm has 2 additional shadow spheres and hence two crossed beams of **Twilight Cutter**. If on normal difficulty the tank could hold the only beam as close as possible, freeing maximum space on the Halion's side for the raid group, on heroic difficulty the tank should stay right between two beams
+_ _
+[HEROIC CUTTER.PNG]
+--------------------------------------------
+_ _
+In addition, puddles created by **Fiery Combustion** and **Soul Consumption** appear in both realms. Not such a trouble, but it makes the raid group keep max melee range in both realms to make sure that a puddle created in the current realm will not appear beneath the group in the opposite realm. At some point, **outside group** in the Physical realm can have no space left to dispel **Fiery Combustion** on the current side, in this case the tank need to turn Halion so the group gets free space near the flame wall.
+
+A puddle created by **Fiery Combustion** applies a stacking debuff that deals periodic fire damage instead of flat damage from the puddle itself.
+
+A puddle created by **Soul Consumption** applies a slow effect on everyone inside, making it difficult to escape **Twilight Cutter**.
+
+**25 Normal:**
+No difference from 10 Normal.
+
+**25 Heroic:**
+Halion gets all additions from 10 Heroic. As a bonus, **Meteor Strike** spawns one big fire elemental named **Living Inferno**, and several small ones named **Living Ember**.
+_ _
+[HEROIC ELEMENTALS.PNG]
+--------------------------------------------
+_ _
+**Living Inferno** increases HP and damage dealt of each **Living Ember** in 15y range. For this fight you will need 3rd tank to tank **Living Ember**s. As long as **Living Ember**s are alive, the main tank is holding the **Living Inferno**.

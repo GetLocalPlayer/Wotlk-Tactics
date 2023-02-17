@@ -1,0 +1,88 @@
+[GENERAL ZARITHRIAN PIC]
+------------------------
+**GENERAL ZARITHRIAN**
+
+One of the three mini-bosses in The Ruby Sanctum that must be defeated to engage Halion.
+General Zarithrian can be engaged only if **Baltharus the Warborn** and **Saviana Ragefire** have been defeated.
+
+
+**ABILITIES**
+_ _
+_ _
+[CLEAVE ARMOR PIC]
+------------------------
+**Cleave Armor**
+> *Reduces an enemy's armor by 20% for 30 sec. Effect stacks up to 5 times.*
+_ _
+_ _
+[INTIMIDATING ROAR PIC]
+------------------------
+**Intimidating Roar**
+> *Roars at nearby enemies, paralyzing them with terror for 4 sec.*
+
+
+**SUMMONS**
+
+General Zarithrian periodically calls **Onyx Flamecallers**.
+[FLAMECALLERS PIC]
+_ _
+**Onyx Flamecaller abilities**
+_ _
+_ _
+[LAVA GOUT PIC]
+------------------------
+**Lava Gout**
+> *Inflicts 8483 to 9517 Fire damage to an enemy.*
+_ _
+_ _
+[BLAST NOVA PIC]
+------------------------
+**Blast Nova**
+> *Inflicts 5688 to 7312 Fire damage to nearby enemies.*
+
+
+**STRATEGY**
+
+**10 Normal:**
+This fight requires 2 tanks and 2 healers.
+The fight starts when the main tank pulls the boss. Right after the pull, flame walls block both entrances and the cliff, not allowing players to escape. The boss should be kept at its initial position.
+
+During the fight, Zarithrian periodically summons an **Onyx Flamecaller** from each entrance. The off-tank must catch the mobs so they won't devastate the rade group. Flamecallers use 2 spells, **Lava Gout** and **Blast Nova**. **Lava Gout** is a single target spell that deals fire damage to the current tank, it can be interrupted and reflected by warriors' `Spell Reflection`. Meanwhile, **Blast Nova** is a non-interruptable spell that deals fire damage in a huge AoE and, eventually, to the whole raid group.
+_ _
+------------------------
+[DUNGEON MAP PIC]
+_ _
+Flamecallers have about 200k HP which gives you 2 options - to ignore adds and nuke Zarithrian down, or to focus adds and kill them. If you decide to ignore adds, **Blast Nova** will be somewhat a soft-berserk, even if your off-tank can handle a lot of Flamecallers at once, the number of one-time **Blast Nova** casts will overwhelm the healers' capability. A protection warrior is probably the only class that can stop several **Blast Nova** efficiently with `Shockwave`.
+
+Periodically, Zarithrian casts **Intimidating Roar**. It's a regular fear that lasts 4 seconds and can be prevented by warriors' `Berserker Rage`, priests' `Fear Ward`, shamans' `Tremor Totem`, druids' `Berserk` e.t.c. The only difference is players will not run around under the effect. Current tank also gets feared which makes the boss change the target. If there's nothing to prevent or dispel the effect from the tank, it is possible to cast taunt right before **Intimidating Roar** cast is finished, this won't allow Zarithrian to change the target.
+
+From time to time Zarithrian sunders his current targzet's armor with **Cleave Armor**. The effect stacks, decreasing the target's armor by 20% per stack. What to do about it depends on your chosen strategy on **Onyx Flamecallers**.
+
+If you decided to focus Flamecallers, your tanks must swap on the boss every 2-3 stacks of **Cleave Armor** effect. The one that's currently waiting for the sunder effect to fade out is holding Flamecallers.
+------------------------
+_ _
+If you choose to nuke the boss down, ignoring the adds, you can:
+
+**1.** Set a protection paladin on the boss. At 4th or 5th stack of the debuff, the tank is casting `Divine Shield` or `Hand of Protection` to remove the debuff. To apply and remove mentioned spells next macros can be used
+```
+#showtooltip Divine Shield
+/cancelaura Divine Shield
+/cast Divine Shield
+```
+```
+#showtooltip Hand of Protection
+/cancelaura Hand of Protection
+/cast Hand of Protection
+```
+**2.** If you don't have a protection paladin but any other kind, you can call for `Hand of Protection` at 4-5 stacks and dispel it with macro `/cancelaura Hand of Protection`
+
+**3.** Having no paladin in the group you can just set the fattest tank on Zarithrian and nuke him down with `Heroism`/`Bloodlust`.
+
+**10 Heroic:**
+No difference from 10 Normal.
+
+**25 Normal:**
+More damage. Zarithrian summons 2 **Onyx Flamecallers** from each entrance at once, you should have 3 tanks to have one on each pair of adds.
+
+**25 Heroic:**
+No difference from 25 Normal.

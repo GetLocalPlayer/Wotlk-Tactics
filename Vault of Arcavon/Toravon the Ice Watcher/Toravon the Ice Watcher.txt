@@ -1,0 +1,64 @@
+[PREVIEW]
+--------------------------------------------
+_ _
+**TORAVON THE ICE WATCHER**
+
+One of four bosses of **Vault of Archavon** raiding dungeon.
+Vault of Archavon is accessible only for the faction that's currently controlling **Wintergrasp**.
+
+
+**ABILITIES**
+
+_ _
+[FROZEN_MALLET.jpg]
+--------------------------------------------
+**Frozen Mallet**
+> *Attacks have a chance to apply Frostbite! Frostbite inflicts 1950 to 2050 damage every 2 sec. for 20 sec.*
+
+_ _
+[FROZEN_ORB.jpg]
+--------------------------------------------
+**Frozen Orb**
+> *Creates a Frozen Orb at a nearby location.*
+
+_ _
+[FREEZING_GROUND.jpg]
+--------------------------------------------
+**Freezing Ground**
+> *Inflicts Frost damage to nearby enemies, immobilizing them for up to 5 sec.*
+
+_ _
+[WHITEOUT.jpg]
+--------------------------------------------
+**Whiteout**
+> *Inflicts 13163 to 13837 Frost damage to all nearby enemies and increases Frost damage tanken by 15%.*
+
+
+**STRATEGY**
+
+**10 Player:**
+This fight requires 2 tanks and 2 healers.
+
+There's no specific requirement for positioning in this fight. Toravon doesn't cleave, doesn't have any frontal AoE, and does not cast any specific spell that could deal damage to players around the target.
+
+During the fight Toravon will have **Frozen Mallet** buff, that allows his successful melee attacks to apply **Frostbite** debuff on his current target. This effect has 3 sec. cooldown. The debuff deals periodic frost damage and stacks. The inactive tank must taunt the boss at 3-4 stacks of the debuff, otherwise the damage can become unhealable, especially at the late stage of the fight because of **Whiteout** debuff. Toravon can be disarmed but it won't stop him from applying **Frostbite** debuff. Meanwhile, since the debuff is applied on each successful melee attack it is possible to avoid its application with parrying and dodging and hence lose the debuff before reaching the deadly number of stacks. **Frostbite** can be also removed with `Divine Shield` and `Divine Intervention`, in combination with high parry/dodge value this makes it possible to fight the boss having only one tank.
+
+Periodically, Toravon summons a **Frozen Orb** near a random player. An orb can be summoned on any target, including the current tank. The orb does not appear immediately but several seconds after the cast is finished. The orb is following the target it was summoned at, dealing damage to nearby players.
+_ _
+--------------------------------------------
+https://imgur.com/7TpRXrj
+--------------------------------------------
+_ _
+All **Frozen Orbs** must be focused by the ranged DPS. It's a bad idea to allow the melee DPS to fight the orbs since the damage dealt by the orbs is increased by **Whiteout** debuff which isn't that deadly at the begining but still mana exhausting for the healers. Since **Frozen Orbs** follow their targets it's pointless to try to run from them, especially through other players making orbs dealing damage to more targets which is mana-exhausting for your healers. Meanwhile, if a **Frozen Orb** was spawned in the melee group, its target should run away from other players to minimize unnecessary damage to the group.
+
+Not such a big deal, but sometimes Toravon applies **Freezing Ground** magic debuff on several random players. The debuff does not allow the victims to move. Theoretically, it's supposed to make your life harder with **Frozen Orbs** but in practice never causes any real trouble.
+--------------------------------------------
+_ _
+Right after **Frozen Orb** cast, Toravon starts casting **Whiteout**. The cast will be finished right before the orb appears, dealing significant damage to the whole raid group, applying **Whiteout** debuff. The debuff stacks, increasing taken frost damage by 15% for each stack. And this is the soft-berserk of this fight. In a lack of DPS **Witheout** will eventually oneshot the group. Considering that all the damage dealt by the boss (**Frozen Mallet**, **Freezing Ground**,  **Frozen Orb**) is frost damage, some healers can be exhausted on mana.
+
+The healers should pay attention to the fact that a **Frozen Orb** appears right after **Whiteout** cast is finished. That means the orb will start dealing damage to players with lowered health, hence players near the orb spawn point must be healed first.
+
+**In brief:** The ranged DPS must focus **Frozen Orbs**. The melee DPS that's the target of a **Frozen Orb** must run away from the melee group. Don't run through the other players if a **Frozen Orb** is chasing you. The inactive tank must taunt the boss if its current target has 3-4 stacks of **Frostbite** debuff. The healers should focus on targets near the **Frozen Orb**'s' spawn point.
+
+**25 Player:**
+Toravon summons 3 **Frozen Orbs** at once.

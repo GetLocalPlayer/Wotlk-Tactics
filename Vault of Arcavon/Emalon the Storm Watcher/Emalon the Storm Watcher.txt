@@ -1,0 +1,91 @@
+[PREVIEW]
+--------------------------------------------
+_ _
+**EMALON THE STORM WATCHER**
+
+One of four bosses of **Vault of Archavon** raiding dungeon.
+Vault of Archavon is accessible only for the faction that's currently controlling **Wintergrasp**.
+
+
+**ABILITIES**
+
+_ _
+[CHAIN_LIGTNING.jpg]
+--------------------------------------------
+**Chain Lightning**
+> *Strikes an enemy with a blast of lightning that inflicts 4625 to 5375 Nature damage. The bolt will arc to additional nearby enemies, inflicting 50% more Nature damage to each successive target.*
+
+_ _
+[LIGHTNiNG_NOVA.jpg]
+--------------------------------------------
+**Lightning Nova**
+> *Emit a pulse of energy that deals 30000 Nature damage to enemies in the immediate vicinity of the caster, and less damage to those who are farther away.*
+
+_ _
+[LIGHTNING_NOVA.jpg]
+--------------------------------------------
+**Overcharge**
+> *Overloads a nearby Tempest Minion with a surge of storm energy.*
+
+
+**TEMPEST MINIONS**
+
+Emalon starts the fight being surrounded by 4 **Tempest Minions**. Every time a Tempest Minion dies, another is summoned at the boss' position.
+_ _
+[TEMPEST_MINION.jpg]
+--------------------------------------------
+_ _
+**Tempest Minion abilities**
+_ _
+[SHOCK.jpg]
+--------------------------------------------
+**Shock**
+> *Instantly throws a bolt of lightning at an enemy, inflicting Nature damage. 6 sec cooldown.*
+
+_ _
+[LIGHTNING_NOVA.jpg]
+--------------------------------------------
+**Overcharged**
+> *Surges with uncontrolled power.  Increases damage dealt by 20% per stack.*
+
+_ _
+[LIGHTNING_NOVA.jpg]
+--------------------------------------------
+**Overcharged Blast**
+> *Causes the caster to explode, unleashing a pulse of energy taht deals 9250 to 10750 Nature damage to enemies.*
+
+
+**STRATEGY**
+
+**10 Player:**
+This fight requires 2 tanks and 2 healers.
+
+The fight starts when the boss is pulled. Off Tank is holding Tempest Minions and Main Tank is dealing with Emalon. The most convenient way to pull the boss is to make Off Tank to charge into the boss, dealing AoE damage to gain enough threat on Tempest Minions, and Main Tank simply taunts the boss from Off Tank right after the pull.
+
+Positioning is defined by 2 Emalon's spells: **Chain Lighting** and **Lightning Nova**. Off Tank and Main Tank must spread so Off Tank is at least 20 yards far from the boss which will prevent taking damage from **Lightning Nova**. Main Tank and Off Tank should stand near the wall to free as much space in the room for the ranged DPS and the healers as possible.
+
+**Lightning Nova** is an AoE that deals a lot of nature damage within 20 yards range from the boss, but the damage is decreased the farther a player stands from Emalon. Obviously, the ranged DPS and the healers must stand farther than 20 yards range from the boss to prevent possible damage completely. Melee DPS in this case less lucky, **Ligthing Nova** takes Emalon 5 seconds to cast, so they must run away from the boss every time they see **Lightning Nova** is being cast.
+_ _
+--------------------------------------------
+https://imgur.com/pO5Dj1v
+--------------------------------------------
+_ _
+**Chain Lighting** is, simply, a chain lighting. But a chain lightning that deals increased damage every time it jumps on a new target. That means the group must spread far enough from each other (at least 10 yards range) to prevent **Chain Lightning**'s jumping, otherwise, affecting several targets, the spell gains enough damage to instantly kill someone in the sequence. Also must be noticed that **Chain Lightning** can target anyone, including the tanks and the melee DPS. So the melee DPS also must stand 10 yards apart.
+_ _
+[CL_DEATH.png]
+--------------------------------------------
+_ _
+**Tempest Minions** are adds that helps Emalon during the fight. It's pointless to focus them since every time a minion dies, another is being summoned at the boss' position. As was mentioned above, Off Tank must tank adds 20 yards away from the boss not to take damage from periodic **Lightning Nova** cast. **Tempest Minions** have **Shock** spell with 6 sec. cooldown as additional pressure on their target.
+
+Periodically, Emalon cast **Overcharge** spell on one of the minions. The target of **Overcharge** gets **Overcharged** buff that increases the damage it deals by 20%. The buff gains additional stacks by the time, up to 10 stacks, dealing more and more damage to Off Tank. The healers must focus pay more attention on Off Tank when the overcharged minion is near maximum stacks. 
+_ _
+--------------------------------------------
+https://imgur.com/gKEWwWD
+--------------------------------------------
+_ _
+When an overcharged minion reachs 10 stacks of **Overcharged** buff, it explodes with **Overcharged Blast** dealing huge damage to the whole raid group. The damage isn't deadly but in combination with **Lightning Nova** and **Chain Lightning** can cause some troubles so it's desirable to prevent an overcharged minion's explosion. To do so you need to kill it. When the raid group sees that Emalons casts **Overcharge**, the ranged and melee DPS must change the target on the overcharged minion, and kill it before explosion.
+
+**In brief:** Off Tank starts the fight and gathers **Tempest Minions**. Main Tank taunts the boss from Off Tank. Main Tank and Off Tank stand near the wall freeing space in the room for the healers and the ranged DPS. Off Tank moves 20 yards away from the boss not to take damage from **Lighting Nova**. All the raid group spread 10 yards from each other to prevent damage boost of **Chain Lightning**. When **Lightning Nova** is being cast, the melee DPS run away from the boss. When Emalon casts **Overcharge** on a **Tempest Minion**, all the DPS switch their target on the charged minion and kill it before **Overcharged Blast** happens.
+
+**25 Player:**
+Despite the fact that there's no difference in the tactics, must be mentioned that due huge number of players in 25 Player mode the ranged DPS and the healers may be left without free space to prevent **Chain Lightning** jumping, they will either too close to each other or too far from the boss to damage or other players to heal. Also must be mentioned that **Chain Lightning** increases its damage with each jump in 25 Player mode only by 25% instead of 50%. All together that means if the ranged DPS and the healers don't have enough space to spread, they can stack in groups 2 players each and then these 2 players groups must stand 10 yards away from each other.

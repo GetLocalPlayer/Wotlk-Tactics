@@ -1,0 +1,57 @@
+[PIC]
+
+--------------------------------------------
+**SAVIANA RAGEFIRE**
+
+One of the three mini-bosses in The Ruby Sanctum that must be defeated to engage Halion.
+
+
+**ABILITIES**
+
+
+[FLAME BREATH PIC]
+--------------------------------------------
+**Flame Breath**
+> *Inflicts 24,500 to 31,500 Fire damage to enemies in a cone in front of Saviana.*
+
+[ENRAGE PIC]
+--------------------------------------------
+**Enrage**
+> *Increases Saviana's attack speed by 150%. Causes Fire Nova every 2 seconds. Lasts 10 seconds.*
+
+[FIRE NOVA PIC]
+--------------------------------------------
+**Fire Nova**
+> *Inflicts 7,601 to 7,600 Fire damage to players within 100 yards.*
+
+[FLAME BEACON PIC]
+--------------------------------------------
+**Flame Beacon**
+> *Marks a target for fiery conflagration.*
+
+[CONFLAGRATION PIC]
+--------------------------------------------
+**Conflagration**
+> *Causes the affected players to temporarily do Fire damage to all nearby allies.*
+
+
+**STRATEGY**
+
+**10 Normal:**
+This fight requires 1 tank and 2 healers.
+The boss is pretty much a dummy with a couple of simple tricks.
+
+The tank pulls the boss and keeps it at the initial position. Saviana must be faced away from the raid to prevent damage caused by periodic cast of **Flame Breath**.
+
+From time to time, Saviana gets **Enraged** that increases the attack speed and causes **Fire Nova** each 2 sec that deals huge AoE damage within 100y range from the boss. **Enrage** buff can be removed by hunters' `Tranquilizing Shot` or rogues' `Shiv`.
+
+Periodically, Saviana flies over the water pool near the initial position, marking 3 random players (the tank can be also targeted) with **Flame Beacon**. After a short delay, the marked players and their allies within 10y range get ablized by **Conflagration**. The effect stuns them for 5 sec dealing periodic damage. Obviously, marked players must run away from the rest of the raid group.
+
+**10 Heroic:**
+No difference from 10 Normal.
+
+**25 Normal:**
+More damage. **Flame Beacon** marks 6 players at once.
+
+**25 Heroic:**
+No difference from 25 Normal.

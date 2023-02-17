@@ -1,0 +1,67 @@
+[PREVIEW]
+--------------------------------------------
+_ _
+**ARCHAVON THE STONE WATCHER**
+
+One of four bosses of **Vault of Archavon** raiding dungeon.
+Vault of Archavon is accessible only for the faction that's currently controlling **Wintergrasp**.
+
+
+**ABILITIES**
+
+_ _
+[ROCK_SHARDS.jpg]
+--------------------------------------------
+**Rock Shards**
+> *Unleashes a hail of jagged rock, striking target enemy every 0.10 sec. for 3 sec. and damaging any additional enemies within 5 of the target.*
+
+_ _
+[CHOKING_CLOUD.jpg]
+--------------------------------------------
+**Chocking Cloud**
+> *Slams into the ground, kicking up an asphyxiating cloud of debris, inflicting 2000 Nature damage per second to all enemies caught within and reducing their chance to hit by 50%.*
+
+_ _
+[STOMP.jpg]
+--------------------------------------------
+**Stomp**
+> *Stomps on an enemy, inflicting 7540 to 8460 Physical damage and knocking him for 2 sec.*
+
+_ _
+[IMPALE.jpg]
+--------------------------------------------
+**Impale**
+> *Lifts an enemy off the ground with a spiked fist, inflicting 28275 to 31725 Physical damage.*
+
+
+**STRATEGY**
+
+**10 Player:**
+This fight requires 2 tanks and 2 healers.
+
+The fight is a bit more than punching a training dummy with berserk timer. You will have 5 minutes to finish the fight before the boss finishes you.
+
+Archavon periodically chooses a random target and casts **Rock Shards** on its position, dealing periodic damage every 0.10 sec. to the target and other players around. The target of **Rock Shards** should not get closer to other players since the spell is following the target and hence dealing damage to everyone on its path. This makes the raid group keep 10 yards range from each other during the fight.
+_ _
+--------------------------------------------
+https://imgur.com/1GgxNcz
+--------------------------------------------
+_ _
+Another reason to keep distance is **Chocking Cloud**. Sometimes, Archavon chooses a random target and performs **Crushing Leap** that deals physical damage knocking affected enemies away and leaves a cloud that also inflicts periodic damage during its lifetime. In addition, **Chocking Cloud** reduces the chance to hit the boss by 50% of everyone inside it. Obviously, get out of **Chocking Cloud** as fast as possible.
+_ _
+--------------------------------------------
+https://imgur.com/mSdtApd
+--------------------------------------------
+_ _
+Another spell Archavon casts periodically is **Stomp**. Simply disables everyone in 5 yards range from the boss for 2 sec. Since the damage dealt is physical it's better to have cloth users far from the boss.
+_ _
+--------------------------------------------
+https://imgur.com/abvo7Od
+--------------------------------------------
+_ _
+And finally, **Impale**. From time to time Archavon grips the current tank in his hand, dealing huge amount of physical damage for 8 seconds. The gripped tank becomes inactive during **Impale** but still can use abilities. It is time to pop defensive cooldowns. Gripped tank will also lose agro making the boss attack second player in the threat list. Off Tank must be that second player or be ready to taunt the boss.
+
+**In brief:** Keep 10 yards range from each other. Don't run to other players being the target of **Rock Shards**. Don't stay in **Chocking Cloud**. When one tank got gripped with **Impale**, another must take the boss. 
+
+**25 Player:**
+No difference from 10 Player mode.
